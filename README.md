@@ -5,7 +5,7 @@
 I am a **Roboticist** by profession and by  :heart:. 
 
 I believe robots have a lot to learn from humans and vice-versa. I aim to be build "Robots for a Purpose" and want to see humans and robots 
-collaborate in the same environment and not replace each other. I am currently pursuing my Master's in Robotics from University of Maryland, College Park. 
+collaborate in the same environment and not replace each other. I am currently pursuing my Master's in Robotics from University of Maryland, College Park and looking for full-time roles for May 2023(graduate then) in the field of Robotics. My interest as well as projects lies in different areas of robotics including perception, path planning as well as simulation. I am currently working on how to write organised code and learning how to write good test cases to achieve optimised code coverage. Currently, I am also learning how to follow Agile while developing software.
 
 ## What is going on my GitHub profile?
 
