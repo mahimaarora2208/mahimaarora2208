@@ -1,19 +1,21 @@
-### Hello Roboticists 👋 :robot:
+### Hello World 👋 :robot:
 
 ## Who am I ?
 
-I am a **Roboticist** by profession and a Roboticist by  :heart:. 
-I believe robots have a lot to learn from humans and vice-versa. I aim to be a roboticist who builds "Robots for a Purpose" and wants to see humans and robots 
-collaborate in the same environment and not replace each other. 
+I am a **Roboticist** by profession and by  :heart:. 
+
+I believe robots have a lot to learn from humans and vice-versa. I aim to be build "Robots for a Purpose" and want to see humans and robots 
+collaborate in the same environment and not replace each other. I am currently pursuing my Master's in Robotics from University of Maryland, College Park. 
 
 ## What is going on my GitHub profile?
 
 This is my humble attempt to showcase my work and ideas. This GitHub profile contain projects in areas of:
-- :camera: Computer Vision and Perception
-- :red_car: Robot Path Planning
-- :computer: ROS and Gazebo Simulation
-- :mortar_board: Robot Software Development
-- :hospital: Concepts in medical robotics (SARAC: Socially assistive robot for autistic children)
+- :mortar_board: Robot Software Development [Link](https://github.com/mahimaarora2208/PID_Controller_TDD)
+- :camera: Computer Vision and Perception [Link](https://github.com/mahimaarora2208/Lane-Detection-and-Turn-Predeiction)
+- :red_car: Robot Path Planning [Link](https://github.com/mahimaarora2208/Robot-Planning)
+- :computer: ROS and Gazebo Simulation [Link](https://github.com/mahimaarora2208/part-pick-and-place-using-ur10)
+- :hospital: Concepts in medical robotics (SARAC: Socially assistive robot for autistic children) [Link](https://github.com/mahimaarora2208/Design-in-SolidWorks)
+- :customs: Warehouse Robotics [Link](https://github.com/mahimaarora2208/warehourse_robot_action_planning) 
 
 ## A little about me :girl:
 - 🔭 I’m currently working on a perception project called Human Detection and Tracking
