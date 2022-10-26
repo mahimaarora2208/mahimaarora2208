@@ -9,7 +9,7 @@ collaborate in the same environment and not replace each other. I am currently p
 
 ## What is going on my GitHub profile?
 
-This is my humble attempt to showcase my work and ideas. This GitHub profile contain projects in areas of:
+This is my attempt to showcase my work and ideas. This GitHub profile contain projects in areas of:
 - :mortar_board: Robot Software Development [Link](https://github.com/mahimaarora2208/PID_Controller_TDD)
 - :camera: Computer Vision and Perception [Link](https://github.com/mahimaarora2208/Lane-Detection-and-Turn-Predeiction)
 - :red_car: Robot Path Planning [Link](https://github.com/mahimaarora2208/Robot-Planning)
