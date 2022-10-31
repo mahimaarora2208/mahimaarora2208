@@ -18,10 +18,10 @@ This is my attempt to showcase my work and ideas. This GitHub profile contain pr
 - :customs: Warehouse Robotics [Link](https://github.com/mahimaarora2208/warehourse_robot_action_planning) 
 
 ## A little about me :girl:
-- 🔭 I’m currently working on a perception project called Human Detection and Tracking
+- 🔭 I’m currently working on a perception project called Human Detection and Tracker
 - 🌱 I’m currently learning how do follow Agile to develop software in robotics
 - 👯 I’m looking to collaborate on projects that believe in creating "Robots for a Purpose"
-- 🤔 I’m looking for help with some good source to learn deep learning and  AI
+- 🤔 I’m looking for help with some good source to learn deep learning and AI
 - 📫 How to reach me: mahima.arora0822@gmail.com 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was a National Level Swimmer :swimmer:  
@@ -31,4 +31,9 @@ This is my attempt to showcase my work and ideas. This GitHub profile contain pr
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.linkedin.com/in/mahima-arora2208/overlay/1635500563310/single-media-viewer/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahima-arora2208/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mahimaarora2208)
+
+[![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mahimaarora2208&count_private=true&theme=tokyonight&showicons=true)](https://github-readme-stats.vercel.app/api/?username=mahimaarora2208&count_private=true&theme=tokyonight&showicons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahimaarora2208)  
+
+
 
