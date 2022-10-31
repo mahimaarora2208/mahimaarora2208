@@ -32,8 +32,5 @@ This is my attempt to showcase my work and ideas. This GitHub profile contain pr
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahima-arora2208/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mahimaarora2208)
 
-[![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mahimaarora2208&count_private=true&theme=tokyonight&showicons=true)](https://github-readme-stats.vercel.app/api/?username=mahimaarora2208&count_private=true&theme=tokyonight&showicons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahimaarora2208)  
-
-
-
+[![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mahimaarora2208&count_private=true&theme=dark&showicons=true)](https://github-readme-stats.vercel.app/api/?username=mahimaarora2208&count_private=true&theme=dark&showicons=true)  
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=mahimaarora2208&theme=dark)  
