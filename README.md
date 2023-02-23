@@ -6,7 +6,7 @@ Visit my website here --> [Link](https://mahimaarora2208.github.io/).
 
 ## What is going on my GitHub profile?
 
-This is a lovely space to showcase my work and ideas. This GitHub profile contain projects in areas of:
+This is a lovely space to showcase my work and ideas. Some of my projects are :
 - :mortar_board: Robot Software Development [Link](https://github.com/mahimaarora2208/PID_Controller_TDD)
 - :camera: Computer Vision and Perception [Link](https://github.com/mahimaarora2208/Lane-Detection-and-Turn-Predeiction)
 - :red_car: Robot Path Planning [Link](https://github.com/mahimaarora2208/Robot-Planning)
@@ -16,7 +16,7 @@ This is a lovely space to showcase my work and ideas. This GitHub profile contai
 
 ## A little about me :girl:
 - 🔭 I’m currently working on improving my knowledge in the field of Deep Learning. 
-- 🌱 I’m currently learning how do follow Agile to develop software in robotics
+- 🌱 I’m recently learned how do follow Agile to develop software in robotics
 - 👯 I’m looking to collaborate on projects that believe in creating "Robots for a Purpose"
 - 🤔 I’m looking for help with some good source to learn deep learning and AI when collaborated with perception.
 - 📫 How to reach me: mahima.arora0822@gmail.com 
