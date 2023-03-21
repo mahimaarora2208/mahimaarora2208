@@ -6,7 +6,7 @@ Visit my website here --> [Link](https://mahimaarora2208.github.io/).
 
 ## What is going on my GitHub profile?
 
-This is a lovely space to showcase my work and ideas. Some of my projects are :
+This is a great space to showcase my work and ideas. Some of my projects are :
 - :mortar_board: Robot Software Development [Link](https://github.com/mahimaarora2208/PID_Controller_TDD)
 - :camera: Computer Vision and Perception [Link](https://github.com/mahimaarora2208/Lane-Detection-and-Turn-Predeiction)
 - :red_car: Robot Path Planning [Link](https://github.com/mahimaarora2208/Robot-Planning)
