@@ -7,9 +7,10 @@
 </h2>
 <h3 align="center">A Robotics Engineer</h3>
 <div align="center">
- :mortar_board: Graduated with my **Masters** in Robotics Engineering from University of Maryland, College Park 
+    
+ :mortar_board: Graduated with a **Masters** in Robotics Engineering from **University of Maryland, College Park** 
 
- 🔭 I am open to Full-Time roles in the US in **Robotics autonomy stack
+ 🔭 I am open to Full-Time roles in the US in **Robotics Software Development**.
   <br> (Robotics Control and Modeling/Robotics Perception/Decision-Making/Simulation/Localization and Mapping/Motion Planning/Autonomy)
 
  💼 I am currently working as a Autonomous Vehicle Software Engineer at [@NIST](https://www.nist.gov/programs-projects/nist-automated-vehicles-program). With an experience of 3+ years in Robotics Software Development working at [@Vecna Robotics](https://www.vecnarobotics.com/), [@Children's National Hospital](https://research.childrensnational.org/labs/medical-robotics) and [@Siemens](https://www.plm.automation.siemens.com/global/en/industries/small-medium-business/robotics/), I , I wore multiple hats to solve complex problems by coding Robotics controllers, navigation and localization algorithms, vision algorithms using CNN.
