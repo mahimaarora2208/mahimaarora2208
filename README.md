@@ -1,5 +1,4 @@
-### Hello World 👋 :robot:
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76746&background=F856FF00&random=false&width=435&lines=Welcome+to+my+GitHub+Page+%3A))](https://git.io/typing-svg)
 ## Visit my website here --> [Link](https://mahimaarora2208.github.io/).
 
 ## What is going on my GitHub profile?
