@@ -36,6 +36,7 @@ This is a great space to showcase my work and ideas. Some of my projects are :
 <h2 align="center">
     :link: Links
 </h2>
+
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.linkedin.com/in/mahima-arora2208/overlay/1635500563310/single-media-viewer/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahima-arora2208/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mahimaarora2208)
