@@ -13,14 +13,18 @@
  🔭 I am open to Full-Time roles in the US in **Robotics Software Development**.
   <br> (Robotics Control and Modeling/Robotics Perception/Decision-Making/Simulation/Localization and Mapping/Motion Planning/Autonomy)
 
- 💼 I am currently working as a Autonomous Vehicle Software Engineer at [@NIST](https://www.nist.gov/programs-projects/nist-automated-vehicles-program). With an experience of 3+ years in Robotics Software Development working at [@Vecna Robotics](https://www.vecnarobotics.com/), [@Children's National Hospital](https://research.childrensnational.org/labs/medical-robotics) and [@Siemens](https://www.plm.automation.siemens.com/global/en/industries/small-medium-business/robotics/), I , I wore multiple hats to solve complex problems by coding Robotics controllers, navigation and localization algorithms, vision algorithms using CNN.
+ 💼 With an experience of 3+ years in Robotics Software Development working at [@Vecna Robotics](https://www.vecnarobotics.com/),  and [@Siemens](https://www.plm.automation.siemens.com/global/en/industries/small-medium-business/robotics/), I wore multiple hats to solve complex problems by coding Robotics controllers, navigation and localization algorithms, vision algorithms using CNN.
+
+ I am currently working as an Autonomous Driving Software Engineer at [@NIST](https://www.nist.gov/programs-projects/nist-automated-vehicles-program), where I develop simulation infrastructure for systems interaction testbed in autonomous vehicles. I provide complex driving scenarios and capture the corresponding metrics to demonstrate the feasibility and value of studying systems interaction and perform perception sensors testing. Previously, I worked as a Robotics Software Intern at [@Children's National Hospital](https://research.childrensnational.org/labs/medical-robotics), where I created a user-friendly GUI for the neurosurgeons to use the path planner. I also assisted in the user-study for testing the path planner results on patients and developed code to find the needle penetration through the tumor. 
 
  🔦 Check out my Portfolio [here](https://mahimaarora2208.github.io/)
 
  ⚡ Hobbies - :swimmer: Swimming , :musical_note: Going to concerts, :statue_of_liberty: Exploring beautiful cities, :ocean: Love a warm beach day :sunglasses:
  </div>
  
-## What is going on my GitHub profile?
+<h2 align="center">
+    <img src="https://github.com/mahimaarora2208/mahimaarora2208/blob/main/projects.gif" height="25px" width="25px"> Projects
+</h2>
 
 This is a great space to showcase my work and ideas. Some of my projects are :
 - :mortar_board: Robot Controller [Link](https://github.com/mahimaarora2208/PID_Controller_TDD)
@@ -29,7 +33,9 @@ This is a great space to showcase my work and ideas. Some of my projects are :
 - :computer: ROS and Gazebo Simulation [Link](https://github.com/mahimaarora2208/part-pick-and-place-using-ur10)
 - :hospital: CAD for robotics (SARAC: Socially assistive robot for autistic children) [Link](https://github.com/mahimaarora2208/Design-in-SolidWorks)
 
-## 🔗 Links
+<h2 align="center">
+    :link: Links
+</h2>
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.linkedin.com/in/mahima-arora2208/overlay/1635500563310/single-media-viewer/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahima-arora2208/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mahimaarora2208)
